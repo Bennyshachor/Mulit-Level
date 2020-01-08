@@ -1,4 +1,4 @@
-module TheModule
+module Module2D
 
 using JuliaFEM, LinearAlgebra, DelimitedFiles, JLD2, SparseArrays, Distributed
 
