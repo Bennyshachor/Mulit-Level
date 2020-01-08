@@ -5,7 +5,7 @@ using MATLAB, JuliaFEM, Plots, Optim, LinearAlgebra, DelimitedFiles
 LOAD_PATH
 path = push!(LOAD_PATH, "C:/Users/benis/OneDrive/delft/ThesisCodeToGitHub/1D")
 path = push!(LOAD_PATH, "C:/Users/benis/OneDrive/delft/julia/MATLAB")
-using Module2
+using Module1D
 
 function CreateParameters()
 
